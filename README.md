@@ -27,7 +27,7 @@ cd client
 npm install
 ```
 
-**4. Install Client Dependencies**
+**4. Run the app**
 
 Open command-prompt in root directory, and run `npm run dev`
 
