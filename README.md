@@ -12,16 +12,15 @@ docker-compose up -d
 
 **2. Install Server Dependencies**
 
-Open command-prompt in company-app directory, and run `npm install`
+Open command-prompt directory, and run `npm install`
 
 ```bash
-cd company-app
 npm install
 ```
 
 **3. Install Client Dependencies**
 
-Open command-prompt in company-app/client directory, and run `npm install`
+Open command-prompt in client directory, and run `npm install`
 
 ```bash
 cd client
@@ -30,7 +29,7 @@ npm install
 
 **4. Install Client Dependencies**
 
-Open command-prompt in company-app, and run `npm run dev`
+Open command-prompt in root directory, and run `npm run dev`
 
 ```bash
 cd ..
